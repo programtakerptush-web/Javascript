@@ -1,0 +1,2 @@
+How to add my file local file to GitHub through VS Code
+------------------------------------------------------------
